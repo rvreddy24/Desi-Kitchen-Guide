@@ -93,4 +93,3 @@ No additional setup required - it's a static website!
 - Contributors who helped with recipe collection and testing
 
 ---
-Made with ❤️ for Indian cuisine lovers
